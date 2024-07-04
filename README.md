@@ -4,7 +4,7 @@ This repository contains an example Python application demonstrating how to impl
 
 ## DEMO
 
-[Watch a demonstration of the Twitch Chat Data Collector](https://github.com/NoorShaik683/Twitch-Data-Collector/blob/main/twitch-data-collector.webm)
+[twitch-data-collector.webm](https://github.com/NoorShaik683/Twitch-Data-Collector/assets/106299708/95ad1639-50bb-4738-a840-00c7f0474fa7)
 
 
 
